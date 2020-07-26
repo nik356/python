@@ -13,3 +13,4 @@ The majority of the content can be found on the course website.
 ## License
 
 The content of this project itself is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) license](https://creativecommons.org/licenses/by-nc-nd/4.0/), and the underlying source code used to format and display that content, along with the code exercises is licensed under the [MIT license](LICENSE.md).
+[![Run on Repl.it](https://repl.it/badge/github/nnja/python)](https://repl.it/github/nnja/python)
